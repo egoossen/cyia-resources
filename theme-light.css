@@ -17,6 +17,12 @@ a {
     text-align: center;
 }
 
+.banner {
+    background-color: yellow;
+    padding: 14px;
+    text-align: center;
+}
+
 /* Style the top navigation bar */
 ul {
     list-style-type: none;
